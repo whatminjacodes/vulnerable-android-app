@@ -1,33 +1,69 @@
+# VULNERABLE APP
 # Gradle files
-.gradle/
-build/
+vulnerable-app/.gradle/
+vulnerable-app/build/
 
 # Local configuration file (sdk path, etc)
-local.properties
+vulnerable-app/local.properties
 
 # Log/OS Files
-*.log
+vulnerable-app/*.log
 
 # Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.apk
-output.json
+vulnerable-app/captures/
+vulnerable-app/.externalNativeBuild/
+vulnerable-app/.cxx/
+vulnerable-app/*.apk
+vulnerable-app/output.json
 
 # IntelliJ
-*.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
+vulnerable-app/*.iml
+vulnerable-app/.idea/
+vulnerable-app/misc.xml
+vulnerable-app/deploymentTargetDropDown.xml
+vulnerable-app/render.experimental.xml
 
 # Keystore files
-*.jks
-*.keystore
+vulnerable-app/*.jks
+vulnerable-app/*.keystore
 
 # Google Services (e.g. APIs or Firebase)
-google-services.json
+vulnerable-app/google-services.json
 
 # Android Profiling
-*.hprof
+vulnerable-app/*.hprof
+
+# FIXED APP
+# Gradle files
+fixed-app/.gradle/
+fixed-app/build/
+
+# Local configuration file (sdk path, etc)
+fixed-app/local.properties
+
+# Log/OS Files
+fixed-app/*.log
+
+# Android Studio generated files and folders
+fixed-app/captures/
+fixed-app/.externalNativeBuild/
+fixed-app/.cxx/
+fixed-app/*.apk
+fixed-app/output.json
+
+# IntelliJ
+fixed-app/*.iml
+fixed-app/.idea/
+fixed-app/misc.xml
+fixed-app/deploymentTargetDropDown.xml
+fixed-app/render.experimental.xml
+
+# Keystore files
+fixed-app/*.jks
+fixed/*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+fixed-app/google-services.json
+
+# Android Profiling
+fixed-app/*.hprof
