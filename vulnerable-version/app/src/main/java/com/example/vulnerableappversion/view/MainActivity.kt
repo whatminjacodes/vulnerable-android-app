@@ -1,4 +1,4 @@
-package com.example.vulnerableappversion
+package com.example.vulnerableappversion.view
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
