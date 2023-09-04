@@ -1,37 +1,37 @@
 # VULNERABLE APP
 # Gradle files
-vulnerable-app/.gradle/
-vulnerable-app/build/
+vulnerable-version/.gradle/
+vulnerable-version/build/
 
 # Local configuration file (sdk path, etc)
-vulnerable-app/local.properties
+vulnerable-version/local.properties
 
 # Log/OS Files
-vulnerable-app/*.log
+vulnerable-version/*.log
 
 # Android Studio generated files and folders
-vulnerable-app/captures/
-vulnerable-app/.externalNativeBuild/
-vulnerable-app/.cxx/
-vulnerable-app/*.apk
-vulnerable-app/output.json
+vulnerable-version/captures/
+vulnerable-version/.externalNativeBuild/
+vulnerable-version/.cxx/
+vulnerable-version/*.apk
+vulnerable-version/output.json
 
 # IntelliJ
-vulnerable-app/*.iml
-vulnerable-app/.idea/
-vulnerable-app/misc.xml
-vulnerable-app/deploymentTargetDropDown.xml
-vulnerable-app/render.experimental.xml
+vulnerable-version/*.iml
+vulnerable-version/.idea/
+vulnerable-version/misc.xml
+vulnerable-version/deploymentTargetDropDown.xml
+vulnerable-version/render.experimental.xml
 
 # Keystore files
-vulnerable-app/*.jks
-vulnerable-app/*.keystore
+vulnerable-version/*.jks
+vulnerable-version/*.keystore
 
 # Google Services (e.g. APIs or Firebase)
-vulnerable-app/google-services.json
+vulnerable-version/google-services.json
 
 # Android Profiling
-vulnerable-app/*.hprof
+vulnerable-version/*.hprof
 
 # FIXED APP
 # Gradle files
